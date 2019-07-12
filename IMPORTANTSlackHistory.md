@@ -1,6 +1,6 @@
 ***********************************************************************************
 27.06.2019
-Day1.  https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561662390471000
+Day 1.  https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561662390471000
 
 I'm happy to take part in the #60daysofudacity challenge! :penguin_dance:
 - Took the pledge. :heavy_check_mark:
@@ -9,7 +9,7 @@ I'm happy to take part in the #60daysofudacity challenge! :penguin_dance:
 p.s.: encourage @Aleksandra Deis and @Bearbear to take part in the #60daysofudacity.
 ***********************************************************************************
 28.06.2019
-Day2.  https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561742526378800
+Day 2.  https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561742526378800
 
 - Lesson 2 completed :heavy_check_mark:
 - I’m on the lesson 3.7…have a big problem with jupyter notebook installation. Lost some hours without success :see_no_evil: https://secureprivataischolar.slack.com/archives/CJW72L5D2/p1561740025224900
@@ -20,7 +20,7 @@ Russia: https://www.facebook.com/groups/458041268317674/
 p.s.: encourage @Taha Rushain and @wafaaismail to take part in the #60daysofudacity
 ***********************************************************************************
 29.06.2019
-Day3. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561845210198300
+Day 3. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561845210198300
 
 - Lesson 3 completed :heavy_check_mark:
 - I’m on the lesson 4.4.
@@ -132,4 +132,12 @@ Thank you @Hitoishi Das for the sharing your solution. It was really helpful! :t
 I would like to encourage *Purple Power Rangers* :hero: @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :purple_heart: :bunny-stars:
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Nirupama Singh and @Rupesh to join the challenge
+***********************************************************************************
+12.07.2019
+Day 16. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562953287103100
+
+- Lesson 8.1 - 8.2 completed :heavy_check_mark:
+I would like to encourage *Purple Power Rangers* :hero: @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :purple_heart: :footprints:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @ZakirKhan and @Xiao O to join the challenge!
 ***********************************************************************************
