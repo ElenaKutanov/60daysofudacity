@@ -141,3 +141,12 @@ I would like to encourage *Purple Power Rangers* :hero: @Amina Assouane, @Shubha
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @ZakirKhan and @Xiao O to join the challenge!
 ***********************************************************************************
+Day 17. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563041585253900
+
+- Lesson 8.3- 8.6 completed :heavy_check_mark:
+- Preparing for the project with Kaggle Titanic Tutorial. Part 1 rewritten, parts 2-3 - some attempts
+- Meetup with SG Purple Power Rangers #sg_prpl_power_rangers
+I would like to encourage Purple Power Rangers @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :hero:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Zain Sarwar and @T G Vidhya join the challenge.
+***********************************************************************************
