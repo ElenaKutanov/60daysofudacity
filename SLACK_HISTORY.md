@@ -153,7 +153,7 @@ p.s.: encourage @Zain Sarwar and @T G Vidhya join the challenge.
 Day 18.https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563121413170800
 
 - Final project 7.12 completed :heavy_check_mark:
-- Meetup with #wmn_who_code. It was great to e-meet you all!
+- Meetup with #wmn_who_code with @Aisha Javed @Temitope Oladokun@Seeratpal K. Jaura @Shubhangi Jena @Aarthi Alagammai @Agata [OR, USA] @Anju Mercian@Ankita Prakash @Jess @Susanne Brockmann @SusanW @cibaca @Ursula Perez @Maria Jose Molina @Sky @Urvi Soni @Mushrifah Hasan @Ivy @Munira Omar @Marwa @Joyce Obi @Frida@Astha Adhikari @Rumanu @Qurat Ul Ain Fatima  @risper bevalyn @Nancy Al Aswad @Madison Estabrook (DL, FE, USA) @Manisha hosted by @Helena Barmer and @Shubhangi Jena It was great to e-meet you all! :thank-you: :tada:
 I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report!
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Y. Leonce Eyog and @Udit Singhania to join the challenge
