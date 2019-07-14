@@ -150,3 +150,11 @@ I would like to encourage Purple Power Rangers @Leah @Amina Assouane, @Shubhangi
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Zain Sarwar and @T G Vidhya join the challenge.
 ***********************************************************************************
+Day 18.https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563121413170800
+
+- Final project 7.12 completed :heavy_check_mark:
+- Meetup with #wmn_who_code. It was great to e-meet you all!
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report!
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Y. Leonce Eyog and @Udit Singhania to join the challenge
+***********************************************************************************
