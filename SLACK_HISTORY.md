@@ -141,6 +141,7 @@ I would like to encourage *Purple Power Rangers* :hero: @Amina Assouane, @Shubha
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @ZakirKhan and @Xiao O to join the challenge!
 ***********************************************************************************
+13.07.2019
 Day 17. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563041585253900
 
 - Lesson 8.3- 8.6 completed :heavy_check_mark:
@@ -150,11 +151,22 @@ I would like to encourage Purple Power Rangers @Leah @Amina Assouane, @Shubhangi
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Zain Sarwar and @T G Vidhya join the challenge.
 ***********************************************************************************
-Day 18.https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563121413170800
+14.07.2019
+Day 18. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563121413170800
 
 - Final project 7.12 completed :heavy_check_mark:
 - Meetup with #wmn_who_code with @Aisha Javed @Temitope Oladokun@Seeratpal K. Jaura @Shubhangi Jena @Aarthi Alagammai @Agata [OR, USA] @Anju Mercian@Ankita Prakash @Jess @Susanne Brockmann @SusanW @cibaca @Ursula Perez @Maria Jose Molina @Sky @Urvi Soni @Mushrifah Hasan @Ivy @Munira Omar @Marwa @Joyce Obi @Frida@Astha Adhikari @Rumanu @Qurat Ul Ain Fatima  @risper bevalyn @Nancy Al Aswad @Madison Estabrook (DL, FE, USA) @Manisha hosted by @Helena Barmer and @Shubhangi Jena It was great to e-meet you all! :thank-you: :tada:
+
 I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report!
+
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Y. Leonce Eyog and @Udit Singhania to join the challenge
+***********************************************************************************
+15.07.2019
+Day 19. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563214136098800
+
+- Lesson 8.7- 8.8 completed :heavy_check_mark: The final project 8.9 started.
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :hibiscus:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Ibukun and @Fabio Valerio Massoli to join the challenge
 ***********************************************************************************
