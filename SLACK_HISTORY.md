@@ -166,6 +166,7 @@ p.s.: encourage @Y. Leonce Eyog and @Udit Singhania to join the challenge
 Day 19. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563214136098800
 
 - Lesson 8.7- 8.8 completed :heavy_check_mark: The final project 8.9 started.
+- Reading AMA_session transcripts
 I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :hibiscus:
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Ibukun and @Fabio Valerio Massoli to join the challenge
