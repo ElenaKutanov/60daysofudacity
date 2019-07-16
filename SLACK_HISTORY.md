@@ -171,3 +171,13 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Ibukun and @Fabio Valerio Massoli to join the challenge
 ***********************************************************************************
+16.07.2019
+Day 20. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563297898171700
+
+:heavy_check_mark: After the post from @EllenZ updated the project 5.5 “Varying Amounts of Noise”.
+:heavy_check_mark: Lesson 9.1 completed.
+:heavy_check_mark: Reading for the T-Shirt project #sg_project-t-shirt “Neural Style Transfer Tutorial - PART 1 Theory of Neural Style Transfer” https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :badger:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Hachiman and @Sourav to join the challenge
+***********************************************************************************
