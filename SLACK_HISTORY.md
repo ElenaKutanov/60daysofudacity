@@ -190,3 +190,12 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @K.S. and @birozso to join the challenge
 ***********************************************************************************
+18.07.2019
+Day 22. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563478632393200
+
+- T-Shirt project finished :heavy_check_mark: The result added on facebook for voting! :bunny-stars:https://www.facebook.com/photo.php?fbid=10157023383663127&set=oa.812067435861177&type=3&theater
+- Project 9.4 - 9.5 in progress :penguin_dance:
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :100:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Qurat Ul Ain Fatima and @J. Luis Samper to join the challenge
+***********************************************************************************
