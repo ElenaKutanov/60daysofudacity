@@ -14,7 +14,7 @@ from torch.autograd import Variable
 from PIL import Image
 import numpy as np
 import torchvision.models as models
-from vgg import VGG
+#from vgg import VGG
 
 
 
@@ -143,13 +143,14 @@ def save_img(img):
                 normalize=True)
     return
 
-style_img = "examples/styles/QiBashi.jpg"
-content_img = "examples/content/dancing.jpg"
+style_img = "examples/styles/s2.jpg"
+content_img = "examples/content/hero.png"
 styleImg = load_img(style_img)
 contentImg = load_img(content_img)
 
 #for running on cuda
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
+print('--- device ---', device)
 styleImg = styleImg.to(device)
 contentImg = contentImg.to(device)
 
@@ -204,8 +205,8 @@ optimizer = optim.LBFGS([optimImg])
 
 #Shifting everything to cuda
 for loss in losses:
-    loss = loss.cuda()
-optimImg.cuda()
+    loss = loss.to(device)
+optimImg.to(device)
 
 # Training
 no_iter = 100
@@ -223,7 +224,7 @@ for iteration in range(1, no_iter):
             totalLossList.append(loss_i(layer_output, target_i) * weights[i])
         totalLoss = sum(totalLossList)
         totalLoss.backward()
-        print('Loss: %f'%(totalLoss.data[0]))
+        print('Loss: %f'%(totalLoss.item()))
         return totalLoss
     optimizer.step(cl)
 outImg = optimImg.data[0].to(device)

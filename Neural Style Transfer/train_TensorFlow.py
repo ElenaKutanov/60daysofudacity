@@ -1,5 +1,3 @@
-
-
 import tensorflow as tf
 from tensorflow.python.keras.preprocessing import image as kp_image
 
@@ -13,10 +11,8 @@ from PIL import Image
 
 # numPy is used for manipulation of array of object i.e Image in our case
 import numpy as np
+import time
 
-##
-##
-##
 
 # list of layers to be considered for calculation of Content and Style Loss
 content_layers = ['block3_conv3']
@@ -26,8 +22,8 @@ num_content_layers = len(content_layers)
 num_style_layers   = len(style_layers)
 
 # path where the content and style images are located
-content_path = './examples/content/dancing.jpg'
-style_path   = './examples/styles/QiBashi.jpg'
+content_path = './examples/content/c8.jpg'
+style_path   = './examples/styles/s3.jpg'
 
 # Save the result as
 save_name = 'generated.jpg'
@@ -183,7 +179,7 @@ def get_model(content_layers,style_layers):
   return Model(inputs = vgg19.input, outputs = model_outputs),  vgg19
 
 
-def run_style_transfer(content_path, style_path, num_iterations=200, content_weight=0.1, style_weight=0.9): 
+def run_style_transfer(content_path, style_path, num_iterations=25, content_weight=0.1, style_weight=0.9):
 
   # Create a tensorflow session 
   sess = tf.Session()
@@ -232,6 +228,7 @@ def run_style_transfer(content_path, style_path, num_iterations=200, content_wei
   best_loss, best_img = float('inf'), None
 
   for i in range(num_iterations):
+    print('time:', time.asctime())
 
     # Do optimization
     sess.run(opt)
@@ -259,11 +256,10 @@ def run_style_transfer(content_path, style_path, num_iterations=200, content_wei
       s_loss = sess.run(style_score)
       c_loss = sess.run(content_score)
 
+    # Save image after every 100 iterations 
+    if (i+1)%5 == 0:
       # print best loss
       print('best: iteration: ', i ,'loss: ', total_loss ,'  style_loss: ',  s_loss,'  content_loss: ', c_loss)
-
-    # Save image after every 100 iterations 
-    if (i+1)%100 == 0:
       output = Image.fromarray(best_img)
       output.save(str(i+1)+'-'+save_name)
 
