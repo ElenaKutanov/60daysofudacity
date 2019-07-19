@@ -199,3 +199,12 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Qurat Ul Ain Fatima and @J. Luis Samper to join the challenge
 ***********************************************************************************
+19.07.2019
+Day 23. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563572973324900
+
+- T-Shirt project. After I saw the beautiful result from @Rishi S Rao decided to improve my picture :frame_with_picture: Reading "Deep photo style transfer" https://blog.acolyer.org/2017/08/18/deep-photo-style-transfer/
+- Still working at the project 9.4 - 9.5.
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :penguin_dance:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Fanni Ikhwan and @Lakshmi to join the challenge
+***********************************************************************************
