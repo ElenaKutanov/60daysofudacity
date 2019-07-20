@@ -208,3 +208,13 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Fanni Ikhwan and @Lakshmi to join the challenge
 ***********************************************************************************
+20.07.2019
+Day 24. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563644345206200
+
+- Lesson 9.4- 9.5 finally completed :heavy_check_mark:
+- Preparing the model and data for the Kaggle Titanic Tutorial project
+- Meetup with wonderful Purple Power Rangers :hero: @StaceyA, @Elena, @Eileen :hibiscus:
+- Meetup with #sg_pytorch-robotics. It was great to e-meet you all! :thank-you: :tada: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Vaibhav and @Layth Zahid to join the challenge
+***********************************************************************************
