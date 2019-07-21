@@ -218,3 +218,11 @@ Day 24. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p156364434520
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Vaibhav and @Layth Zahid to join the challenge
 ***********************************************************************************
+21.07.2019
+Day 25. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563735758277700
+
+- Spent two hours on the lessons review and project 8.9.
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :hibiscus:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Sabrina Palis and @Nali H to join the challenge
+***********************************************************************************
