@@ -226,3 +226,11 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Sabrina Palis and @Nali H to join the challenge
 ***********************************************************************************
+22.07.2019
+Day 26. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563828101268500
+
+- Lesson 9.6 - 9.7 and project 8.9 completed :heavy_check_mark:
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :bunny-stars:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Fariman Kashani and @THIYAGARAJAN R to join the challenge
+***********************************************************************************
