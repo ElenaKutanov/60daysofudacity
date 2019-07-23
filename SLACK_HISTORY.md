@@ -234,3 +234,13 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Fariman Kashani and @THIYAGARAJAN R to join the challenge
 ***********************************************************************************
+23.07.2019
+Day 27. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563915409059900
+
+- Viewed 9.8 - 9.9 videos and read the congratulation 10. Thinking about an idea for the project 9.8.
+- Made some analyse about Raspberry PI for the project #sg_pytorch-robotics. Should wait a little bit to buy the desired set, it's not on the market for Germany.
+- Working on the project for #sg_prpl_power_rangers.
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :100:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Ugur Caliskan and @Younes Zadi to join the challenge
+***********************************************************************************
