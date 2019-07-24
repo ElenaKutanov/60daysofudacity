@@ -244,3 +244,11 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Ugur Caliskan and @Younes Zadi to join the challenge
 ***********************************************************************************
+24.07.2019
+Day 28. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564003386261800
+
+- Coursera: Week 1 "Neural Networks and Deep Learning" completed :heavy_check_mark:
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky to post a #60daysofudacity daily report :party-dinosaur:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Rachel and @Hafsa Sam to join the challenge
+***********************************************************************************
