@@ -252,3 +252,12 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Rachel and @Hafsa Sam to join the challenge
 ***********************************************************************************
+25.07.2019
+Day 29. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564089855091500
+
+- Coursera: Week 2 (Lesson 1-4) "Neural Networks and Deep Learning" completed :heavy_check_mark:
+- Reading (pages 1-4) Chained Anomaly Detection Models for Federated Learning, Intrusion Detection Case Study for the #sg_pytorch-robotics :raspberry:https://www.mdpi.com/2076-3417/8/12/2663
+I would like to encourage @Amina Assouane, @StaceyA, @Elena, @Eileen, @Sky to post a #60daysofudacity daily report :penguin_dance:
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Pablo Carmona - Zuluaga and @Padhma M to join the challenge
+***********************************************************************************
