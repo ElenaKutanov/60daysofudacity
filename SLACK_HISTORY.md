@@ -261,3 +261,16 @@ I would like to encourage @Amina Assouane, @StaceyA, @Elena, @Eileen, @Sky to po
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Pablo Carmona - Zuluaga and @Padhma M to join the challenge
 ***********************************************************************************
+Day 30. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564166474207600
+
+Today is the :bunny-stars:30th:bunny-stars: day and I want to celebrate it! :tada::100::ddance:
+I’m proud and happy to keep up this part without missing any day! :charmander_dancing: I learned a lot and met interesting people. Thank you all! :thank-you::hugging_face:
+This beautiful summer day was also interesting because:
+- Registered to AWS DeepRacer Scholarship Challenge :racing_car:
+- Completed Lesson 1 “Intro to Machine Learning” completed
+- Bought the Raspberry Pi 4 B :raspberry:for the #sg_pytorch-robotics project
+- Completed Coursera lesson 5-8 in the Week 2 "Neural Networks and Deep Learning"
+- Worked on the project for the #sg_prpl_power_rangers
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky and SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary
+***********************************************************************************
