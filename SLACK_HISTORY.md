@@ -264,13 +264,22 @@ p.s.: encourage @Pablo Carmona - Zuluaga and @Padhma M to join the challenge
 Day 30. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564166474207600
 
 Today is the :bunny-stars:30th:bunny-stars: day and I want to celebrate it! :tada::100::ddance:
-I’m proud and happy to keep up this part without missing any day! :charmander_dancing: I learned a lot and met interesting people. Thank you all! :thank-you::hugging_face:
+I’m proud and happy to keep up without missing any day! :charmander_dancing: I learned a lot and met interesting people. Thank you all! :thank-you::hugging_face:
 This beautiful summer day was also interesting because:
 - Registered to AWS DeepRacer Scholarship Challenge :racing_car:
-- Completed Lesson 1 “Intro to Machine Learning” completed
+- Completed lesson 1 “Intro to Machine Learning”
 - Bought the Raspberry Pi 4 B :raspberry:for the #sg_pytorch-robotics project
 - Completed Coursera lesson 5-8 in the Week 2 "Neural Networks and Deep Learning"
 - Worked on the project for the #sg_prpl_power_rangers
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky and SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary
+***********************************************************************************
+Day 31. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564249902320700
+
+Today is the first day after the half of the challenge. The peak passed and I hope that the further studying be as easy, as a descend from the waterfall, which I visited today morning :sunrise_over_mountains:
+- Worked on the Kaggle Titanic project for #sg_prpl_power_rangers and it's finished :tada: The result after Tutorial learning was the place 9200. With the new PyTorch solution achieved the place 4363 from 11788 !!! :up-vote:
+- Meetup #sg_prpl_power_rangers with the best @Elena and @Eileen :hibiscus:
+- Meetup #sg_pytorch-robotics :raspberry:Thank you @Helena Barmer and  @Muhammad Naufil @Bhanujeet Choudhary @Mohammad Diab @Dammy @Joyce Obi @Joyce @Marwa@erinSnPAI @Oudarjya Sen Sarma @Jess @Mateusz @qursaan @Suraiya Khan @Anju Mercian @Sourav @Ahmed MAGDY EISSA @Ayesha Manzur @Nancy Al Aswad @Droid @Laura A@susyjam @Harkirat @Vipul Aggarwal
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Vivank Sharma and @Wajdi Khattel to keep up the challenge!
 ***********************************************************************************
