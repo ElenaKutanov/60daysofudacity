@@ -277,9 +277,20 @@ I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Sh
 Day 31. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564249902320700
 
 Today is the first day after the half of the challenge. The peak passed and I hope that the further studying be as easy, as a descend from the waterfall, which I visited today morning :sunrise_over_mountains:
-- Worked on the Kaggle Titanic project for #sg_prpl_power_rangers and it's finished :tada: The result after Tutorial learning was the place 9200. With the new PyTorch solution achieved the place 4363 from 11788 !!! :up-vote:
+- Worked on the Kaggle Titanic project for #sg_prpl_power_rangers and it's finished :tada: The result after tutorial learning was the place 9200. With the new PyTorch solution achieved the place 4363 from 11788 !!! :up-vote:
 - Meetup #sg_prpl_power_rangers with the best @Elena and @Eileen :hibiscus:
 - Meetup #sg_pytorch-robotics :raspberry:Thank you @Helena Barmer and  @Muhammad Naufil @Bhanujeet Choudhary @Mohammad Diab @Dammy @Joyce Obi @Joyce @Marwa@erinSnPAI @Oudarjya Sen Sarma @Jess @Mateusz @qursaan @Suraiya Khan @Anju Mercian @Sourav @Ahmed MAGDY EISSA @Ayesha Manzur @Nancy Al Aswad @Droid @Laura A@susyjam @Harkirat @Vipul Aggarwal
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Vivank Sharma and @Wajdi Khattel to keep up the challenge!
+***********************************************************************************
+Day 32. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564340019329300
+
+- Watched nice video How Snapchat's filters work, thanks @erinSnPAI for this :+1: https://www.youtube.com/watch?v=Pc2aJxnmzh0
+- Worked on the Kaggle Titanic project for #sg_prpl_power_rangers, trying to improve the result :hero:
+- Completed coursera lesson 9-18 in the Week 2 "Neural Networks and Deep Learning"
+- Walking tour 20+ km on the mountain Brocken in Harz :female_mage::skin-tone-2:
+
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub:   https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Fady Morris Milad and @Sarah Majors to keep up the challenge!
 ***********************************************************************************
