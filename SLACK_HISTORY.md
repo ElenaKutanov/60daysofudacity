@@ -302,3 +302,21 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage *Purple Power Rangers* :hero: @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goyal, @Harkirat, @Shubhangi Jena, @Sky, @Amina Assouane, @Leah, @StaceyA, @shahnoza, @Noom Chanthadit and *SG Pytorch Robotics* :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary to keep doing :penguin_dance:
 ***********************************************************************************
+Day 34. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564510946266600
+
+- Completed lesson 2.10-2.18 “Intro to Machine Learning” :heavy_check_mark:
+======= For the project in #sg_pytorch-robotics :raspberry: =======
+- Received !!! Raspberry Pi 4 B !!! :celebrate::ultra_fast_parrot:
+- Decided to try Federated Learning on Raspberry Pi + Android :heavy_check_mark:
+- Read and done part 3 "Access the command line of a Raspberry Pi remotely from another computer or device on the same network using SSH" https://www.raspberrypi.org/documentation/remote-access/ssh/?fbclid=IwAR3gy-uyYo1auIbrsjmn5ZjqN7ZjjKCw2XPrglRYGkvYXSoZqrzkpNOSR3E :heavy_check_mark:
+- Read and done till 1.6 "Part 1 - How to set up PySyft on a Rasbperry PI" https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/ :heavy_check_mark:
+- Read "PySyft for Android" https://towardsdatascience.com/pysyft-android-b28da47a767e :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+Purple Power Rangers :hero: @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goyal, @Harkirat, @Shubhangi Jena, @Sky, @Amina Assouane, @Leah, @StaceyA, @shahnoza, @Noom Chanthadit
+SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary
+and new FACE DETECTION TEAM :bunny-stars: @Agata [OR, USA], @Anshu Trivedi, @erinSnPAI, @Sourav, @Rupesh Purum, @medhagupta098, @Ravikant Singh, @Abhishek Tandon, @Adithi Krishnan, @susyjam, @Prabha Venkatesh, @Vamsi, @Dammy, @Seeratpal K. Jaura, @Julie Fang, @Alejandro Galindo, @Joyce Obi, @James Korge
+to keep doing :ddance: :ddance: :ddance: 
+***********************************************************************************
+
