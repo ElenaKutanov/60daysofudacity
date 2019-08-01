@@ -261,6 +261,7 @@ I would like to encourage @Amina Assouane, @StaceyA, @Elena, @Eileen, @Sky to po
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Pablo Carmona - Zuluaga and @Padhma M to join the challenge
 ***********************************************************************************
+26.07.2019
 Day 30. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564166474207600
 
 Today is the :bunny-stars:30th:bunny-stars: day and I want to celebrate it! :tada::100::ddance:
@@ -274,6 +275,7 @@ This beautiful summer day was also interesting because:
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage Purple Power Rangers :hero: @Leah @Amina Assouane, @Shubhangi Jena, @StaceyA, @Elena, @Noom Chanthadit, @Eileen, @Sandy Liu, @Sky and SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary
 ***********************************************************************************
+27.07.2019
 Day 31. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564249902320700
 
 Today is the first day after the half of the challenge. The peak passed and I hope that the further studying be as easy, as a descend from the waterfall, which I visited today morning :sunrise_over_mountains:
@@ -283,6 +285,7 @@ Today is the first day after the half of the challenge. The peak passed and I ho
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Vivank Sharma and @Wajdi Khattel to keep up the challenge!
 ***********************************************************************************
+28.07.2019
 Day 32. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564340019329300
 
 - Watched nice video How Snapchat's filters work, thanks @erinSnPAI for this :+1: https://www.youtube.com/watch?v=Pc2aJxnmzh0
@@ -294,6 +297,7 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub:   https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @Fady Morris Milad and @Sarah Majors to keep up the challenge!
 ***********************************************************************************
+29.07.2019
 Day 33. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564427843212700
 
 - Completed lesson 2.1-2.9 “Intro to Machine Learning” :heavy_check_mark:
@@ -302,6 +306,7 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage *Purple Power Rangers* :hero: @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goyal, @Harkirat, @Shubhangi Jena, @Sky, @Amina Assouane, @Leah, @StaceyA, @shahnoza, @Noom Chanthadit and *SG Pytorch Robotics* :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary to keep doing :penguin_dance:
 ***********************************************************************************
+30.07.2019
 Day 34. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564510946266600
 
 - Completed lesson 2.10-2.18 “Intro to Machine Learning” :heavy_check_mark:
@@ -319,14 +324,24 @@ SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Ghar
 and new FACE DETECTION TEAM :bunny-stars: @Agata [OR, USA], @Anshu Trivedi, @erinSnPAI, @Sourav, @Rupesh Purum, @medhagupta098, @Ravikant Singh, @Abhishek Tandon, @Adithi Krishnan, @susyjam, @Prabha Venkatesh, @Vamsi, @Dammy, @Seeratpal K. Jaura, @Julie Fang, @Alejandro Galindo, @Joyce Obi, @James Korge
 to keep doing :ddance: :ddance: :ddance: 
 ***********************************************************************************
+31.07.2019
 Day 35. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564605496310200
 
 - Completed lesson 2.19 - 2.28 “Intro to Machine Learning” :heavy_check_mark:
-- Project for #sg_pytorch-robotics :raspberry:- staying on the step 2 "Part 1 - How to set up PySyft on a Raspbperry PI". https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/  As expected, have a lot of problems :see_no_evil: For all who try to do the same this motivation picture :joy:
+- Project for #sg_pytorch-robotics :raspberry: Staying on the step 2 "Part 1 - How to set up PySyft on a Raspbperry PI". https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/  As expected, have a lot of problems :see_no_evil: For all who try to do the same this motivation picture :joy:
 - Python learning on LeetCode (2 problems) :sweat_smile:
 Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage:
 SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary to keep doing! :raspberry::raspberry::raspberry:
 ***********************************************************************************
+01.08.2019
+Day 36. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564695023031100
 
+- Completed lesson 2.29 - 2.38 “Intro to Machine Learning” :heavy_check_mark:
+- Project for #sg_pytorch-robotics :raspberry: The step 2 "Part 1 - How to set up PySyft on a Raspbperry PI" completed :heavy_check_mark: https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+Purple Power Rangers :hero: @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goyal, @Harkirat, @Shubhangi Jena, @Sky, @Amina Assouane, @Leah, @StaceyA, @shahnoza, @Noom Chanthadit to keep doing!
+***********************************************************************************
