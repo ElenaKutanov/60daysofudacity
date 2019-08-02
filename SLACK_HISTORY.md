@@ -345,3 +345,11 @@ GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage:
 Purple Power Rangers :hero: @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goyal, @Harkirat, @Shubhangi Jena, @Sky, @Amina Assouane, @Leah, @StaceyA, @shahnoza, @Noom Chanthadit to keep doing!
 ***********************************************************************************
+02.08.2019
+Day 37. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564780381252200
+
+- AWS DeepRacer Lesson 1 - 2 completed :heavy_check_mark:
+- Python learning on LeetCode (2 problems) :heavy_check_mark:
+I would like to encourage:
+Face Detection Team :bunny-stars: @Agata [OR, USA], @Anshu Trivedi, @erinSnPAI, @Sourav, @Rupesh Purum, @medhagupta098, @Ravikant Singh, @Abhishek Tandon, @Adithi Krishnan, @susyjam, @Prabha Venkatesh, @Vamsi, @Dammy, @Seeratpal K. Jaura, @Julie Fang, @Alejandro Galindo, @Joyce Obi, @James Korge to keep doing! :100:
+***********************************************************************************
