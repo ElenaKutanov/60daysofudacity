@@ -353,3 +353,14 @@ Day 37. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p156478038125
 I would like to encourage:
 Face Detection Team :bunny-stars: @Agata [OR, USA], @Anshu Trivedi, @erinSnPAI, @Sourav, @Rupesh Purum, @medhagupta098, @Ravikant Singh, @Abhishek Tandon, @Adithi Krishnan, @susyjam, @Prabha Venkatesh, @Vamsi, @Dammy, @Seeratpal K. Jaura, @Julie Fang, @Alejandro Galindo, @Joyce Obi, @James Korge to keep doing! :100:
 ***********************************************************************************
+03.08.2019
+Day 38.
+
+- AWS DeepRacer Lesson 3 completed :heavy_check_mark: Trained, evaluated and submitted the first model. Improve the result from 153 till 14... place. 
+- Python learning on LeetCode (23-24) :heavy_check_mark:
+- Meetup #sg_prpl_power_rangers with the best @Elena, @Eileen, @Am... :hibiscus:
+- Meetup #sg_pytorch-robotics :raspberry:Thank you @Juan Carlos Kuri Pinto @Muhammad Naufil @Pooja Vinod @Jess @Bhadresh Savani @Oudarjya Sen Sarma @Elena Kutanov @Temitope Oladokun @Sourav @Joyce @Stanislav Ladyzhenskiy @Suparna S Nair @Nirupama Singh @Mateusz @Lisa Crossman @Ebinbin Ajagun @Mahitej @susyjam @Divya @Molly-ngampit @Dammy @Ayesha Manzur @Sayed Maheen Basheer @Mahak Bansal @Tanat Tonguthaisri
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+p.s.: encourage @Vivank Sharma and @Wajdi Khattel to keep up the challenge!
+***********************************************************************************
