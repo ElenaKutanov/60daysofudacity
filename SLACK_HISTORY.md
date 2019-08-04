@@ -365,3 +365,14 @@ Day 38. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p156486203332
 Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
 GitHub: https://github.com/EVikVik/60daysofudacity
 p.s.: encourage @barabash and @waleed hassan to keep up the challenge!***********************************************************************************
+04.08.2019
+Day 39. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564952431083200
+
+- AWS DeepRacer: lesson 4 completed :heavy_check_mark:
+- Coursera: Week 2 "Neural Networks and Deep Learning" completed :heavy_check_mark:
+- Python learning on LeetCode (25-31) :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary to keep doing! :raspberry::raspberry::raspberry:
+***********************************************************************************
