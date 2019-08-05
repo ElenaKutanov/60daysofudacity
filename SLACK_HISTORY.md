@@ -376,3 +376,16 @@ GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage:
 SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary to keep doing! :raspberry::raspberry::raspberry:
 ***********************************************************************************
+05.08.2019
+Day 40. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565037103190800
+
+- Coursera: Week 3 (Videos 1-4) "Neural Networks and Deep Learning" completed :heavy_check_mark:
+- Python learning on LeetCode (32-33) :heavy_check_mark:
+- Started part 2.2 - "How to train a Recurrent Neural Network on Raspberry PIs in a federated way", stopped in jupyter notebook "Federated Recurrent Neural Network" on step 18 due to error. https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+Purple Power Rangers :hero: @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goyal, @Harkirat, @Shubhangi Jena, @Sky, @Amina Assouane, @Leah, @StaceyA, @shahnoza, @Noom Chanthadit
+and
+SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary to keep doing!
+***********************************************************************************
