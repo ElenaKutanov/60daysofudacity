@@ -364,7 +364,8 @@ Day 38. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p156486203332
 - Meetup #sg_wonder_vision with @James Korge, @Medha, @Rupesh, @Alejandro Galindo, @Anshu Trivedi , @Nancy Al Aswad, @Sourav :bunny-stars:
 Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
 GitHub: https://github.com/EVikVik/60daysofudacity
-p.s.: encourage @barabash and @waleed hassan to keep up the challenge!***********************************************************************************
+p.s.: encourage @barabash and @waleed hassan to keep up the challenge!   
+***********************************************************************************   
 04.08.2019
 Day 39. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564952431083200
 
