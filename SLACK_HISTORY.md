@@ -389,3 +389,14 @@ Purple Power Rangers :hero: @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goy
 and
 SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary to keep doing!
 ***********************************************************************************
+06.08.2019
+Day 41. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565124491258000
+
+- Coursera: Week 3 (Videos 5-8) "Neural Networks and Deep Learning" completed :heavy_check_mark:
+- Python learning on LeetCode (34-37) :heavy_check_mark:
+- AWS DeepRacer: lesson 5 (1-6) completed :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+Face Detection Team :bunny-stars: @James Korge, @Agata [OR, USA], @Anshu Trivedi, @erinSnPAI, @Sourav, @Rupesh Purum, @medhagupta098, @Ravikant Singh, @Abhishek Tandon, @Adithi Krishnan, @susyjam, @Prabha Venkatesh, @Hari Vamsi, @Dammy, @Seeratpal K. Jaura, @Julie Fang, @Alejandro Galindo, @Joyce Obi  to keep doing! :100:
+***********************************************************************************
