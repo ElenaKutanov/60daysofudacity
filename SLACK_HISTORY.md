@@ -413,3 +413,14 @@ I would like to encourage:
 SG Pytorch Robotics :raspberry: @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary
 and :hibiscus: @Elena, @Eileen to keep doing! :100:
 ***********************************************************************************
+08.08.2019
+Day 43. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565296143339800
+
+- Worked on a group project "Facial Expression Recognition". After some installation hours, compiled first example from the project packet.
+- Coursera: Week 3 Quiz "Neural Networks and Deep Learning" completed :heavy_check_mark:
+- Python learning on LeetCode (42-45) :heavy_check_mark:
+- Video "This AI Learned To See In The Dark" https://www.youtube.com/watch?v=bcZFQ3f26pA :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage @Elena, @Eileen to keep doing! :party_mim_cat:
+***********************************************************************************
