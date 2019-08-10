@@ -435,3 +435,14 @@ I would like to encourage:
 SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Md. Mahedi Hasan Riday @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary :raspberry:
 and @Elena, @Eileen to keep doing! :hero:
 ***********************************************************************************
+10.08.2019
+Day 45. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565464631219300
+
+- Coursera: Week 4 (Videos 1-4) "Neural Networks and Deep Learning" completed :heavy_check_mark:
+- Python learning on LeetCode: 6 new tasks (52-57), repeated 5 tasks :heavy_check_mark:
+- Meetup #sg_prpl_power_rangers with the best @Elena, @Eileen :hibiscus:
+- Meetup #sg_pytorch-robotics :raspberry: Thank you @Helena Barmer, @Muhammad Naufil @Juan Carlos Kuri Pinto @Jess @cibaca @Mika @Ivy @Suparna S Nair @Bhadresh Savani @Stanislav Ladyzhenskiy @Mateusz @Nirupama Singh@Ebinbin Ajagun @Ayesha Manzur @Mahitej @Divya @Sourav @Nancy Al Aswad @Laura A @Sayed Maheen Basheer @Dammy @Temitope Oladokun@Joy Poddar @Ateniola Oluwatobi Victor @Oudarjya Sen Sarma @Mr.Robot @Pooja Vinod
+p.s.: encourage @Fabio and @T to keep up the challenge!
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+***********************************************************************************
