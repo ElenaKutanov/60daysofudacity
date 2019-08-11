@@ -446,3 +446,15 @@ p.s.: encourage @Fabio and @T to keep up the challenge!
 Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
 GitHub: https://github.com/EVikVik/60daysofudacity
 ***********************************************************************************
+11.08.2019
+Day 46. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565554283332700
+
+- Coursera: Week 4 (Videos 5-8) "Neural Networks and Deep Learning" completed :heavy_check_mark:
+- Python learning on LeetCode: 6 new tasks (58 - 63), repeated 2 tasks :heavy_check_mark:
+- One more try to get back in track the federated learning jupyter notebook for RaspberryPi. At least understood, that the command 'python3 run_websocket_client --host <your_ip> --port 8777 --id alice' is for starting run_websocket_server.py and not for the run_websocket_client.py. :raspberry: https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Mahedi @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary :raspberry:
+and @Elena, @Eileen to keep doing! :bunny-stars:
+***********************************************************************************
