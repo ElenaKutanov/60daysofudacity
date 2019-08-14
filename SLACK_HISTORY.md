@@ -468,16 +468,6 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen to keep doing! :bunny-stars:
 ***********************************************************************************
-12.08.2019
-Day 47. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565642914291800
-
-- Coursera: Week 4 (Quiz) "Neural Networks and Deep Learning" completed :heavy_check_mark:
-- Python learning on LeetCode: 3 new tasks (64 - 66) :heavy_check_mark:
-- Worked on project 'Facial Expression Recognition' for #sg_prpl_power_rangers. Data understanding, naive model implementation.
-Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
-GitHub: https://github.com/EVikVik/60daysofudacity
-I would like to encourage @Elena, @Eileen to keep doing! :bunny-stars:
-***********************************************************************************
 13.08.2019
 Day 48. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565725242185100
 
@@ -487,4 +477,14 @@ Day 48. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p156572524218
 - Showcase meetup #sg_prpl_power_rangers with the wonderful @Elena, @Eileen :all_the_things:
 - Showcase meetup #sg_pytorch-robotics :raspberry: with @Helena Barmer @Ankur Bhatia@cibaca @Suparna S Nair @Sankalp Dayal @Jess @Sayed Maheen Basheer @Stanislav Ladyzhenskiy @Shashi Gharti @Nirupama Singh @susyjam @Ebinbin Ajagun @Ayesha Manzur @Sushil Ghimire
 I would like to encourage @Fabrício Ceschin, @Amina Assouane to keep doing! :bunny-stars:
+***********************************************************************************
+14.08.2019
+Day 49. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565811437102200
+
+- Coursera: course "Neural Networks and Deep Learning" completed :celebrate::party_mim_cat::ddance:
+Worked on programming assignments "Building your deep neural network: Step by Step" and "Deep Neural Network Application" :heavy_check_mark:
+- Python learning on LeetCode: 4 new tasks (68 - 71) :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage @Elena, @Eileen to keep doing! :bunny-stars: 
 ***********************************************************************************
