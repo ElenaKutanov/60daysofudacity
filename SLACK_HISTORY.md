@@ -488,3 +488,17 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen to keep doing! :bunny-stars: 
 ***********************************************************************************
+15.08.2019
+Day 50. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565896335446400
+
+- Coursera: week 1 (videos and quiz) 'Convolutional Neural Networks' :heavy_check_mark:
+- Started CNN for 'Facial Expression Recognition' project #sg_prpl_power_rangers
+- Python learning on LeetCode: 1 new task :heavy_check_mark:
+- Worked on the task 'Setup guide: What parts are needed for the project' for the showcase in #sg_pytorch-robotics
+- Worked on federated learning project with Raspberry Pi #sg_pytorch-robotics
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Mahedi @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary :raspberry:
+and @Elena, @Eileen to keep doing! :bunny-stars:
+***********************************************************************************
