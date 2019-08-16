@@ -502,3 +502,15 @@ I would like to encourage:
 SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Mahedi @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary :raspberry:
 and @Elena, @Eileen to keep doing! :bunny-stars:
 ***********************************************************************************
+16.08.2019
+Day 51. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565981258267700
+
+- Coursera: week 1 (jupyter notebooks) 'Convolutional Neural Networks' completed :heavy_check_mark:
+- 'Setup guide: What parts are needed for the project' for the #sg_pytorch-robotics showcase is done, task closed, results submitted and posted for the blog competition :celebrate: :all_the_things: :raspberry: :heavy_check_mark: https://medium.com/@justinchuang/step-by-step-jupyter-notebook-on-pc-with-nvidia-gpu-and-nvidia-docker-2499ec9b7644
+- Python learning on LeetCode: 6 new tasks (73-78) :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+SG Pytorch Robotics @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Mahedi @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary :raspberry:
+and @Elena, @Eileen to keep doing! :hibiscus:
+***********************************************************************************
