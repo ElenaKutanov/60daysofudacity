@@ -506,7 +506,7 @@ and @Elena, @Eileen to keep doing! :bunny-stars:
 Day 51. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565981258267700
 
 - Coursera: week 1 (jupyter notebooks) 'Convolutional Neural Networks' completed :heavy_check_mark:
-- 'Setup guide: What parts are needed for the project' for the #sg_pytorch-robotics showcase is done, task closed, results submitted and posted for the blog competition :celebrate: :all_the_things: :raspberry: :heavy_check_mark: https://medium.com/@justinchuang/step-by-step-jupyter-notebook-on-pc-with-nvidia-gpu-and-nvidia-docker-2499ec9b7644
+- 'Setup guide: What parts are needed for the project' for the #sg_pytorch-robotics showcase is done, task closed, results submitted and posted for the blog competition :celebrate: :all_the_things: :raspberry: :heavy_check_mark: https://medium.com/@elena.kutanov/setup-guide-what-parts-are-needed-for-federated-learning-on-raspberry-pi-7c0c7b06ab3b
 - Python learning on LeetCode: 6 new tasks (73-78) :heavy_check_mark:
 Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
 GitHub: https://github.com/EVikVik/60daysofudacity
