@@ -524,3 +524,18 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen, we did it (CNN) ! :grinning: :rocket: :celebrate:
 ***********************************************************************************
+18.08.2019
+Day 53.
+
+' We did it Little Rock! ' (c) Dota 2 Tiny
+:raspberry:- :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry:
+- Federated learning on Raspberry Pi completed!
+Started Raspberry Pi worker Alice and virtual worker Bob, trained the model and got the predictions.
+:raspberry:- :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry:
+- Fixed an issue in syft and posted it in troubleshooting in #sg_pytorch-robotics project wiki
+- Meetup #sg_prpl_power_rangers with the wonderful @Elena, @Eileen :awesome-ball:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage @Helena Barmer and @Suparna S Nair to keep doing! :heart: :hibiscus:
+***********************************************************************************
+
