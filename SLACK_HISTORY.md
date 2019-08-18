@@ -525,7 +525,7 @@ GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen, we did it (CNN) ! :grinning: :rocket: :celebrate:
 ***********************************************************************************
 18.08.2019
-Day 53.
+Day 53. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566146990321700
 
 ' We did it Little Rock! ' (c) Dota 2 Tiny
 :raspberry:- :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry: - :raspberry:
