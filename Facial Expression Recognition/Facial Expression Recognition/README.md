@@ -3,7 +3,7 @@ Group project from the **Purple Power Rangers** (#sg_prpl_power_rangers):
 - Eileen Hertwig (@Eileen),
 - Elena Kutanov (@Elena Kutanov)
 
-## Challenges in Representation Learning: Facial Expression Recognition Challenge
+## Challenges in Representation Learning: Facial Expression Recognition
 
 In this project our team used data from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognitionchallenge/data to explore facial expression recognition with PyTorch and Deep Learning.
 
