@@ -9,4 +9,4 @@ The Titanic competition (https://www.kaggle.com/c/titanic) is the classic first 
 Our group worked through a manual (https://www.kaggle.com/sashr07/kaggle-titanic-tutorial) which gives a good overview on how to prepare the data, train a model and submit the results to kaggle.
 Then, using PyTorch, we implemented 3 models, trained them and submitted predictions to kaggle.
 
-This repository contains the notebook documenting our group's joutney with the project.
+This repository contains the notebook documenting our group's journey with the project.
