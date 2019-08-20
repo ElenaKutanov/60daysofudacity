@@ -552,4 +552,16 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Afrodita Elena and @Sourav to keep doing!
 ***********************************************************************************
+20.08.2019
+Day 55. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566333904240300
+
+( ...such a calm day :sweat_smile: )
+- Coursera: week 2 (videos 1-4) 'Convolutional Neural Networks' :heavy_check_mark:
+- Python learning on LeetCode: 4 new task :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage:
+*SG Pytorch Robotics* showcase group @Helena Barmer @Temitope Oladokun @Jess @Sankalp Dayal @Pooja Vinod @Alex Ahumada @Nirupama Singh @Ayesha Manzur @Joyce @Suparna S Nair @Sergio Valderrama @Stanislav Ladyzhenskiy @Mika @Muhammad Naufil @Ebinbin Ajagun @Sayed Maheen Basheer @Sushil Ghimire @cibaca @Juan Carlos Kuri Pinto @Shivam Raisharma @Ivy :raspberry:
+and :hero: @Elena, @Eileen :hero: to keep doing!
+***********************************************************************************
 
