@@ -557,7 +557,7 @@ Day 55. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p156633390424
 
 ( ...such a calm day :sweat_smile: )
 - Coursera: week 2 (videos 1-4) 'Convolutional Neural Networks' :heavy_check_mark:
-- Python learning on LeetCode: 4 new task :heavy_check_mark:
+- Python learning on LeetCode: 4 new tasks :heavy_check_mark:
 Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage:
@@ -568,9 +568,18 @@ and :hero: @Elena, @Eileen :hero: to keep doing!
 Day 56. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566418451233400
 
 - Coursera: week 2 (videos 5-8) 'Convolutional Neural Networks' :heavy_check_mark:
-- Python learning on LeetCode: 4 new task :heavy_check_mark:
+- Python learning on LeetCode: 4 new tasks :heavy_check_mark:
 Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage :hero: @Elena, @Eileen, @Helena Barmer, @Jess :hero: and @Sourav to keep doing! :drone:
 ***********************************************************************************
+21.08.2019
+Day 57. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566508016370800
 
+- Artificial Intelligence for Robotics: Lesson 1 (1-10) :oncoming_automobile: :heavy_check_mark:
+- Convolutional Neural Networks (Coursera): week 2 (videos 9-11) :heavy_check_mark:
+- Python learning on LeetCode: 1 new task :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage @Elena, @Eileen, @Helena Barmer, @Jess and @Sourav to keep doing! :penguin_dance: :penguin_dance: :penguin_dance:
+***********************************************************************************
