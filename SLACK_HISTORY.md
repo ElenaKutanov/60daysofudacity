@@ -602,3 +602,23 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen, @Helena Barmer, @Jess and @Sourav to keep doing! :bunny-stars:
 ***********************************************************************************
+25.08.2019
+Day 60. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566761633486400
+
+- Artificial Intelligence for Robotics: Lesson 1 completed :oncoming_automobile: :heavy_check_mark: Worked on videos and quizzes 26 - 37.
+- Convolutional Neural Networks (Coursera): week 2 completed :heavy_check_mark: Worked on
+Notebook "Keras Tutorial - The Happy House" and Notebook "Residual Networks"
+- Attending the last meetup #sg_pytorch-robotics :raspberry:with @Helena Barmer @Jess @Mika @Muhammad Naufil @Pranjal Chaubey @cibaca @Mateusz @Stanislav Ladyzhenskiy @Sourav @Suparna S Nair :heart:
+- Attending the first for me and last for the group meetup #sg_europeers with @Helena Barmer, @Mariia Denysenko, @Akash Antony, @Alison Davey, @PaulBruce, @Samuela Anastasi :purple_heart:
+- Attending the last meetup #sg_prpl_power_rangers with the wonderful @Elena, @Eileen :gift_heart:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity 
+***********************************************************************************
+26.08.2019
+Day 61. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566853901268100
+
+- Convolutional Neural Networks (Coursera): week 3 (Videos 1-4) completed :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage @Elena, @Eileen!
+***********************************************************************************
