@@ -622,3 +622,14 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen!
 ***********************************************************************************
+27.08.2019
+Day 62. https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566935348057100
+
+- Convolutional Neural Networks (Coursera): week 3 (Videos 5-7) completed :heavy_check_mark: Learned YOLO and Non-max suppression algorithms.
+- Watched video about Jetson Nano Developer Kit :raspberry: https://www.youtube.com/watch?time_continue=20&v=Uvu6NNOvhg4
+- Got a 60 days of udacity badge.
+- Got a certificate of appreciation.
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage @Elena, @Eileen! :bunny-stars:
+***********************************************************************************
