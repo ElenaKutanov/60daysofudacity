@@ -641,3 +641,11 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen! :heart:
 ***********************************************************************************
+29.08.2019
+Day 64.
+
+- Convolutional Neural Networks (Coursera): week 3 (Quiz) completed :heavy_check_mark:
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity
+I would like to encourage @Elena, @Eileen, @Helena Barmer, @Berenice! :heart:
+***********************************************************************************
