@@ -649,3 +649,15 @@ Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.m
 GitHub: https://github.com/EVikVik/60daysofudacity
 I would like to encourage @Elena, @Eileen, @Helena Barmer, @Berenice! :heart:
 ***********************************************************************************
+30.08.2019
+Day 65.
+
+It's the day to say thank you all who organised the course and participated in this amazing community! :heart: :heart: :heart:   :ultra_fast_parrot: THANK YOU :ultra_fast_parrot:
+@Eileen @Elena, @Irene0000, @Olha.Ki, @Sandy Liu, @Elena, @Mansi Goyal, @Harkirat, @Shubhangi Jena, @Sky, @Amina Assouane, @Leah, @StaceyA, @shahnoza, @Noom Chanthadit, @Helena Barmer @Jess @Mohammad Diab @Shashi Gharti @Joyce @Mateusz @Venkata Rathnam Muralidharan @Erika Yoon @Temitope Oladokun@Sergio Valderrama @Dammy @Suraiya Khan@Marwa @Mahedi @Sridhar Ethiraj@Joyce Obi @Sourav @Ayesha Manzur @erinSnPAI@Ahmed MAGDY EISSA @Oudarjya Sen Sarma@Muhammad Naufil @Sarah Majors @Sushil Ghimire@yasser albarbary, @Agata [OR, USA], @Anshu Trivedi, @Sourav, @Rupesh Purum, @medhagupta098, @Ravikant Singh, @Abhishek Tandon, @Adithi Krishnan, @susyjam, @Prabha Venkatesh, @Vamsi, @Dammy, @Seeratpal K. Jaura, @Julie Fang, @Alejandro Galindo, @Joyce Obi, @James Korge, @Yemi, @Palak.Udacity, @PaulBruce, @Frida, @Berenice, @akshit.udacity, @Archit, @Pranjal Chaubey, @Juan Carlos Kuri Pinto, @Mariia Denysenko, @Mohona, @EllenZ, @Samuela Anastasi, @Suparna S Nair, @Sankalp Dayal and all other.
+- got a badge for the 3rd place with the #sg_pytorch-robotics
+- participating in the AMA session
+- participating in the reverse AMA session
+- some tasks on Leetcode
+Tracking: https://github.com/EVikVik/60daysofudacity/blob/master/SLACK_HISTORY.md
+GitHub: https://github.com/EVikVik/60daysofudacity 
+***********************************************************************************
