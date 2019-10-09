@@ -1,3 +1,3 @@
-** 60daysofudacity **
+# 60daysofudacity
 
-*Secure and Private AI Scholarship Challenge from Facebook*
+## Secure and Private AI Scholarship Challenge from Facebook
